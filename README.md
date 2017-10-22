@@ -7,3 +7,5 @@ Machine_learning_Scripts will be a collection of all small time analytics that i
   
   all of the parameters are mandatory.Proper learning rate should chosen. i.e below 1 obviously you dont want your function  
   to overshoot.
+# 2. K-Nearest Neighbour
+  Ya its knn nothing really interesting... why is it even here !! Ahh i know for people looking out for simple implementation example too   look into
