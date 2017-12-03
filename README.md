@@ -9,3 +9,5 @@ Machine_learning_Scripts will be a collection of all small time analytics that i
   to overshoot.
 # 2. K-Nearest Neighbour
   Ya its knn nothing really interesting... why is it even here !! Ahh i know for people looking out for simple implementation example too   look into
+# 3. Logistic Regression
+  An extermely simple Logistic Regression variant. Will uddate and make it proper classification worthy with added layers
