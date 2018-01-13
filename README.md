@@ -11,3 +11,6 @@ Machine_learning_Scripts will be a collection of all small time analytics that i
   Ya its knn nothing really interesting... why is it even here !! Ahh i know for people looking out for simple implementation example too   look into
 # 3. Logistic Regression
   An extermely simple Logistic Regression variant. Will uddate and make it proper classification worthy with added layers
+# 4. Keras MNIST
+  So i took the handwritting number dataset of MNIST and put it through a conv net made using Keras with tensorflow backend. Its just for code refference for anyone looking for any the architecture used is given below <br/>
+  (CONV2d,RELU) => (CONV2d ,RELU) => MaxPooling => dropout => fully connected => dropout => fullconnected_10
