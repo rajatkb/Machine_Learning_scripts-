@@ -18,4 +18,4 @@ Machine_learning_Scripts will be a collection of all small time analytics that i
   Model used for the analysis <br/>
   Conv2d(3,3,c = 64) => Conv2d(4,4,c=128) => Conv2d(2,2,256) => AveragePool(2,2) =>dropoout=> faltten=>Dense=>dropout=> dense => dense =>softmax output
   given is a trained model giving 90% accuracy , did an early stopping since limited by my computing power will continue with my Desktop grad GPU.
-  * UPDATE : New GPU Weights are here with accuracy 0.9932 accuracy in train data and 0.93 in test. Should change the model maybe
+  * UPDATE : New GPU Weights are here with accuracy 0.9932 accuracy in train data and 0.93 in test. Should change the model maybe since the model is overfitting to the data
